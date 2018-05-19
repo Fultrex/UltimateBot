@@ -23,7 +23,7 @@ async def credits(ctx):
 
 @bot.command(pass_context=True)
 async def updates(ctx):
-    await bot.say ("Bot is officially created!")
+    await bot.say ("5/29/18 - Bot is officially created! | The bot is now hosted 24/7!")
 
 @bot.command(pass_context=True)
 async def cmds(ctx):
